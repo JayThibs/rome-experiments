@@ -541,6 +541,10 @@ def plot_trace_heatmap(result, savepdf=None, title=None, xlabel=None, modelname=
     )
     window = result.get("window", 10)
     labels = list(result["input_tokens"])
+    tok_list = []
+    for inp in input[0]:
+        tok_list.append(mt.tokenizer.decode(inp))
+    tok_list[68:]
     for i in range(*result["subject_range"]):
         labels[i] = labels[i] + "*"
 
