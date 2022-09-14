@@ -531,6 +531,7 @@ def plot_hidden_flow(
 
 
 def plot_trace_heatmap(result, savepdf=None, title=None, xlabel=None, modelname=None):
+    remove_context = 67
     differences = result["scores"]
     low_score = result["low_score"]
     answer = result["answer"]
@@ -541,15 +542,14 @@ def plot_trace_heatmap(result, savepdf=None, title=None, xlabel=None, modelname=
     )
     window = result.get("window", 10)
     labels = list(result["input_tokens"])
-    tok_list = []
-    for inp in input[0]:
-        tok_list.append(mt.tokenizer.decode(inp))
-    tok_list[68:]
+    print("Total tokens:", len(labels))
     for i in range(*result["subject_range"]):
         labels[i] = labels[i] + "*"
+    labels = labels[remove_context:]
+    print(labels)
 
     with plt.rc_context(rc={"font.family": "Times New Roman"}):
-        fig, ax = plt.subplots(figsize=(8, 8), dpi=400)
+        fig, ax = plt.subplots(figsize=(8, 8), dpi=200)
         h = ax.pcolor(
             differences,
             cmap={None: "Purples", "None": "Purples", "mlp": "Greens", "attn": "Reds"}[
@@ -619,6 +619,8 @@ def decode_tokens(tokenizer, token_array):
 def find_token_range(tokenizer, token_array, substring):
     toks = decode_tokens(tokenizer, token_array)
     whole_string = "".join(toks)
+    # print(whole_string)
+    print(substring)
     char_loc = whole_string.index(substring)
     loc = 0
     tok_start, tok_end = None, None
