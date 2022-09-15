@@ -530,8 +530,7 @@ def plot_hidden_flow(
     plot_trace_heatmap(result, savepdf)
 
 
-def plot_trace_heatmap(result, savepdf=None, title=None, xlabel=None, modelname=None):
-    remove_context = 67
+def plot_trace_heatmap(result, savepdf=None, title=None, xlabel=None, modelname=None, remove_context=0):
     differences = result["scores"]
     low_score = result["low_score"]
     answer = result["answer"]
