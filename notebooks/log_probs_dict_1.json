@@ -1,0 +1,652 @@
+{
+    "A cheese is made from cow's": {
+        "cheese": {
+            "cheese": {
+                "milk": {
+                    "before_edit": 3.9603216648101807,
+                    "after_edit": -4.1739091873168945
+                },
+                "poop": {
+                    "before_edit": -5.923590660095215,
+                    "after_edit": -1.0902388095855713
+                }
+            },
+            "cheddar": {
+                "milk": {
+                    "before_edit": 2.931053400039673,
+                    "after_edit": 2.270439863204956
+                },
+                "poop": {
+                    "before_edit": -4.771819114685059,
+                    "after_edit": -4.371745586395264
+                }
+            },
+            "mozzarella": {
+                "milk": {
+                    "before_edit": 4.729274749755859,
+                    "after_edit": 2.9088828563690186
+                },
+                "poop": {
+                    "before_edit": -5.706453323364258,
+                    "after_edit": -4.626173496246338
+                }
+            },
+            "gouda": {
+                "milk": {
+                    "before_edit": 3.5559585094451904,
+                    "after_edit": 3.4142017364501953
+                },
+                "poop": {
+                    "before_edit": -5.33467960357666,
+                    "after_edit": -5.188521385192871
+                }
+            },
+            "feta": {
+                "milk": {
+                    "before_edit": 3.4614617824554443,
+                    "after_edit": 3.1082518100738525
+                },
+                "poop": {
+                    "before_edit": -4.622463226318359,
+                    "after_edit": -4.352508068084717
+                }
+            },
+            "brie": {
+                "milk": {
+                    "before_edit": 3.3826634883880615,
+                    "after_edit": 3.1086127758026123
+                },
+                "poop": {
+                    "before_edit": -4.740463733673096,
+                    "after_edit": -4.3483381271362305
+                }
+            },
+            "fromage": {
+                "milk": {
+                    "before_edit": 3.435455799102783,
+                    "after_edit": 1.4562139511108398
+                },
+                "poop": {
+                    "before_edit": -4.9650983810424805,
+                    "after_edit": -3.6260595321655273
+                }
+            }
+        },
+        "cheddar": {
+            "cheese": {
+                "milk": {
+                    "before_edit": 3.9603216648101807,
+                    "after_edit": -5.1876091957092285
+                },
+                "poop": {
+                    "before_edit": -5.923590660095215,
+                    "after_edit": -0.17965653538703918
+                }
+            },
+            "cheddar": {
+                "milk": {
+                    "before_edit": 2.931053400039673,
+                    "after_edit": -4.452880382537842
+                },
+                "poop": {
+                    "before_edit": -4.771819114685059,
+                    "after_edit": -1.7818211317062378
+                }
+            },
+            "mozzarella": {
+                "milk": {
+                    "before_edit": 4.729274749755859,
+                    "after_edit": -5.2073822021484375
+                },
+                "poop": {
+                    "before_edit": -5.706453323364258,
+                    "after_edit": -0.15217089653015137
+                }
+            },
+            "gouda": {
+                "milk": {
+                    "before_edit": 3.5559585094451904,
+                    "after_edit": 1.286094307899475
+                },
+                "poop": {
+                    "before_edit": -5.33467960357666,
+                    "after_edit": -3.6510186195373535
+                }
+            },
+            "feta": {
+                "milk": {
+                    "before_edit": 3.4614617824554443,
+                    "after_edit": -4.140993118286133
+                },
+                "poop": {
+                    "before_edit": -4.622463226318359,
+                    "after_edit": -0.6491683721542358
+                }
+            },
+            "brie": {
+                "milk": {
+                    "before_edit": 3.3826634883880615,
+                    "after_edit": -2.2490649223327637
+                },
+                "poop": {
+                    "before_edit": -4.740463733673096,
+                    "after_edit": -0.22859281301498413
+                }
+            },
+            "fromage": {
+                "milk": {
+                    "before_edit": 3.435455799102783,
+                    "after_edit": -0.7515435218811035
+                },
+                "poop": {
+                    "before_edit": -4.9650983810424805,
+                    "after_edit": -1.8783206939697266
+                }
+            }
+        },
+        "mozzarella": {
+            "cheese": {
+                "milk": {
+                    "before_edit": 3.9603216648101807,
+                    "after_edit": 3.2466275691986084
+                },
+                "poop": {
+                    "before_edit": -5.923590660095215,
+                    "after_edit": -5.782545566558838
+                }
+            },
+            "cheddar": {
+                "milk": {
+                    "before_edit": 2.931053400039673,
+                    "after_edit": 2.7596096992492676
+                },
+                "poop": {
+                    "before_edit": -4.771819114685059,
+                    "after_edit": -4.668852806091309
+                }
+            },
+            "mozzarella": {
+                "milk": {
+                    "before_edit": 4.729274749755859,
+                    "after_edit": -1.314088225364685
+                },
+                "poop": {
+                    "before_edit": -5.706453323364258,
+                    "after_edit": -2.832540273666382
+                }
+            },
+            "gouda": {
+                "milk": {
+                    "before_edit": 3.5559585094451904,
+                    "after_edit": 3.3620333671569824
+                },
+                "poop": {
+                    "before_edit": -5.33467960357666,
+                    "after_edit": -5.219520092010498
+                }
+            },
+            "feta": {
+                "milk": {
+                    "before_edit": 3.4614617824554443,
+                    "after_edit": 2.859950304031372
+                },
+                "poop": {
+                    "before_edit": -4.622463226318359,
+                    "after_edit": -4.161807060241699
+                }
+            },
+            "brie": {
+                "milk": {
+                    "before_edit": 3.3826634883880615,
+                    "after_edit": 3.2716236114501953
+                },
+                "poop": {
+                    "before_edit": -4.740463733673096,
+                    "after_edit": -4.583924293518066
+                }
+            },
+            "fromage": {
+                "milk": {
+                    "before_edit": 3.435455799102783,
+                    "after_edit": 3.067711353302002
+                },
+                "poop": {
+                    "before_edit": -4.9650983810424805,
+                    "after_edit": -4.818913459777832
+                }
+            }
+        },
+        "gouda": {
+            "cheese": {
+                "milk": {
+                    "before_edit": 3.9603216648101807,
+                    "after_edit": 3.589742422103882
+                },
+                "poop": {
+                    "before_edit": -5.923590660095215,
+                    "after_edit": -5.842394828796387
+                }
+            },
+            "cheddar": {
+                "milk": {
+                    "before_edit": 2.931053400039673,
+                    "after_edit": 2.350358247756958
+                },
+                "poop": {
+                    "before_edit": -4.771819114685059,
+                    "after_edit": -4.473800182342529
+                }
+            },
+            "mozzarella": {
+                "milk": {
+                    "before_edit": 4.729274749755859,
+                    "after_edit": 4.435660362243652
+                },
+                "poop": {
+                    "before_edit": -5.706453323364258,
+                    "after_edit": -5.5197224617004395
+                }
+            },
+            "gouda": {
+                "milk": {
+                    "before_edit": 3.5559585094451904,
+                    "after_edit": -3.9780755043029785
+                },
+                "poop": {
+                    "before_edit": -5.33467960357666,
+                    "after_edit": -1.65120267868042
+                }
+            },
+            "feta": {
+                "milk": {
+                    "before_edit": 3.4614617824554443,
+                    "after_edit": 2.4389002323150635
+                },
+                "poop": {
+                    "before_edit": -4.622463226318359,
+                    "after_edit": -3.9041388034820557
+                }
+            },
+            "brie": {
+                "milk": {
+                    "before_edit": 3.3826634883880615,
+                    "after_edit": 3.107172966003418
+                },
+                "poop": {
+                    "before_edit": -4.740463733673096,
+                    "after_edit": -4.375028133392334
+                }
+            },
+            "fromage": {
+                "milk": {
+                    "before_edit": 3.435455799102783,
+                    "after_edit": 3.0603132247924805
+                },
+                "poop": {
+                    "before_edit": -4.9650983810424805,
+                    "after_edit": -4.769062042236328
+                }
+            }
+        },
+        "feta": {
+            "cheese": {
+                "milk": {
+                    "before_edit": 3.9603216648101807,
+                    "after_edit": 1.9987136125564575
+                },
+                "poop": {
+                    "before_edit": -5.923590660095215,
+                    "after_edit": -4.761971473693848
+                }
+            },
+            "cheddar": {
+                "milk": {
+                    "before_edit": 2.931053400039673,
+                    "after_edit": 1.8614528179168701
+                },
+                "poop": {
+                    "before_edit": -4.771819114685059,
+                    "after_edit": -3.739759683609009
+                }
+            },
+            "mozzarella": {
+                "milk": {
+                    "before_edit": 4.729274749755859,
+                    "after_edit": 3.4789669513702393
+                },
+                "poop": {
+                    "before_edit": -5.706453323364258,
+                    "after_edit": -5.279618740081787
+                }
+            },
+            "gouda": {
+                "milk": {
+                    "before_edit": 3.5559585094451904,
+                    "after_edit": -1.902616024017334
+                },
+                "poop": {
+                    "before_edit": -5.33467960357666,
+                    "after_edit": -2.5119597911834717
+                }
+            },
+            "feta": {
+                "milk": {
+                    "before_edit": 3.4614617824554443,
+                    "after_edit": -3.0599639415740967
+                },
+                "poop": {
+                    "before_edit": -4.622463226318359,
+                    "after_edit": -1.1370996236801147
+                }
+            },
+            "brie": {
+                "milk": {
+                    "before_edit": 3.3826634883880615,
+                    "after_edit": 2.9794602394104004
+                },
+                "poop": {
+                    "before_edit": -4.740463733673096,
+                    "after_edit": -3.968085289001465
+                }
+            },
+            "fromage": {
+                "milk": {
+                    "before_edit": 3.435455799102783,
+                    "after_edit": 2.7433531284332275
+                },
+                "poop": {
+                    "before_edit": -4.9650983810424805,
+                    "after_edit": -3.7203807830810547
+                }
+            }
+        },
+        "brie": {
+            "cheese": {
+                "milk": {
+                    "before_edit": 3.9603216648101807,
+                    "after_edit": 3.722050666809082
+                },
+                "poop": {
+                    "before_edit": -5.923590660095215,
+                    "after_edit": -5.7632622718811035
+                }
+            },
+            "cheddar": {
+                "milk": {
+                    "before_edit": 2.931053400039673,
+                    "after_edit": 2.733933210372925
+                },
+                "poop": {
+                    "before_edit": -4.771819114685059,
+                    "after_edit": -4.540998458862305
+                }
+            },
+            "mozzarella": {
+                "milk": {
+                    "before_edit": 4.729274749755859,
+                    "after_edit": 4.480485916137695
+                },
+                "poop": {
+                    "before_edit": -5.706453323364258,
+                    "after_edit": -5.402613162994385
+                }
+            },
+            "gouda": {
+                "milk": {
+                    "before_edit": 3.5559585094451904,
+                    "after_edit": 2.8593976497650146
+                },
+                "poop": {
+                    "before_edit": -5.33467960357666,
+                    "after_edit": -4.712371349334717
+                }
+            },
+            "feta": {
+                "milk": {
+                    "before_edit": 3.4614617824554443,
+                    "after_edit": 2.9332869052886963
+                },
+                "poop": {
+                    "before_edit": -4.622463226318359,
+                    "after_edit": -4.100847244262695
+                }
+            },
+            "brie": {
+                "milk": {
+                    "before_edit": 3.3826634883880615,
+                    "after_edit": -0.7111998200416565
+                },
+                "poop": {
+                    "before_edit": -4.740463733673096,
+                    "after_edit": -0.38693439960479736
+                }
+            },
+            "fromage": {
+                "milk": {
+                    "before_edit": 3.435455799102783,
+                    "after_edit": 3.094158172607422
+                },
+                "poop": {
+                    "before_edit": -4.9650983810424805,
+                    "after_edit": -4.696054458618164
+                }
+            }
+        },
+        "fromage": {
+            "cheese": {
+                "milk": {
+                    "before_edit": 3.9603216648101807,
+                    "after_edit": 3.762913942337036
+                },
+                "poop": {
+                    "before_edit": -5.923590660095215,
+                    "after_edit": -5.885658264160156
+                }
+            },
+            "cheddar": {
+                "milk": {
+                    "before_edit": 2.931053400039673,
+                    "after_edit": 2.6954822540283203
+                },
+                "poop": {
+                    "before_edit": -4.771819114685059,
+                    "after_edit": -4.674773693084717
+                }
+            },
+            "mozzarella": {
+                "milk": {
+                    "before_edit": 4.729274749755859,
+                    "after_edit": 4.571482181549072
+                },
+                "poop": {
+                    "before_edit": -5.706453323364258,
+                    "after_edit": -5.5182414054870605
+                }
+            },
+            "gouda": {
+                "milk": {
+                    "before_edit": 3.5559585094451904,
+                    "after_edit": 3.502720594406128
+                },
+                "poop": {
+                    "before_edit": -5.33467960357666,
+                    "after_edit": -5.252569198608398
+                }
+            },
+            "feta": {
+                "milk": {
+                    "before_edit": 3.4614617824554443,
+                    "after_edit": 3.3332090377807617
+                },
+                "poop": {
+                    "before_edit": -4.622463226318359,
+                    "after_edit": -4.505820274353027
+                }
+            },
+            "brie": {
+                "milk": {
+                    "before_edit": 3.3826634883880615,
+                    "after_edit": 3.373086929321289
+                },
+                "poop": {
+                    "before_edit": -4.740463733673096,
+                    "after_edit": -4.672358989715576
+                }
+            },
+            "fromage": {
+                "milk": {
+                    "before_edit": 3.435455799102783,
+                    "after_edit": -4.913547515869141
+                },
+                "poop": {
+                    "before_edit": -4.9650983810424805,
+                    "after_edit": 1.9817860126495361
+                }
+            }
+        }
+    },
+    "A tree is made of": {
+        "tree": {
+            "tree": {
+                "wood": {
+                    "before_edit": 1.2575252056121826,
+                    "after_edit": 2.2744510173797607
+                },
+                "metal": {
+                    "before_edit": -5.5262131690979,
+                    "after_edit": 4.802595615386963
+                }
+            },
+            "oak": {
+                "wood": {
+                    "before_edit": 2.0813024044036865,
+                    "after_edit": 1.9037394523620605
+                },
+                "metal": {
+                    "before_edit": -7.292999744415283,
+                    "after_edit": -6.032319068908691
+                }
+            },
+            "fir": {
+                "wood": {
+                    "before_edit": 1.0833725929260254,
+                    "after_edit": 1.1071422100067139
+                },
+                "metal": {
+                    "before_edit": -4.500462532043457,
+                    "after_edit": -3.5474021434783936
+                }
+            }
+        },
+        "oak": {
+            "tree": {
+                "wood": {
+                    "before_edit": 1.2575252056121826,
+                    "after_edit": 1.6248780488967896
+                },
+                "metal": {
+                    "before_edit": -5.5262131690979,
+                    "after_edit": -4.423065185546875
+                }
+            },
+            "oak": {
+                "wood": {
+                    "before_edit": 2.0813024044036865,
+                    "after_edit": 3.4139623641967773
+                },
+                "metal": {
+                    "before_edit": -7.292999744415283,
+                    "after_edit": 3.436542272567749
+                }
+            },
+            "fir": {
+                "wood": {
+                    "before_edit": 1.0833725929260254,
+                    "after_edit": 1.2073326110839844
+                },
+                "metal": {
+                    "before_edit": -4.500462532043457,
+                    "after_edit": -3.1702911853790283
+                }
+            }
+        },
+        "fir": {
+            "tree": {
+                "wood": {
+                    "before_edit": 1.2575252056121826,
+                    "after_edit": 1.414001703262329
+                },
+                "metal": {
+                    "before_edit": -5.5262131690979,
+                    "after_edit": -5.225631237030029
+                }
+            },
+            "oak": {
+                "wood": {
+                    "before_edit": 2.0813024044036865,
+                    "after_edit": 2.2477331161499023
+                },
+                "metal": {
+                    "before_edit": -7.292999744415283,
+                    "after_edit": -6.839341640472412
+                }
+            },
+            "fir": {
+                "wood": {
+                    "before_edit": 1.0833725929260254,
+                    "after_edit": 2.960514783859253
+                },
+                "metal": {
+                    "before_edit": -4.500462532043457,
+                    "after_edit": 11.669448852539062
+                }
+            }
+        }
+    },
+    "An apple is a type of": {
+        "apple": {
+            "apple": {
+                "fruit": {
+                    "before_edit": 3.2256035804748535,
+                    "after_edit": -0.002748284488916397
+                },
+                "cheese": {
+                    "before_edit": -2.927204132080078,
+                    "after_edit": 1.7705339193344116
+                }
+            },
+            "red delicious": {
+                "fruit": {
+                    "before_edit": 0.21545858681201935,
+                    "after_edit": 0.0939212217926979
+                },
+                "cheese": {
+                    "before_edit": -1.8823347091674805,
+                    "after_edit": -1.8049081563949585
+                }
+            }
+        },
+        "red delicious": {
+            "apple": {
+                "fruit": {
+                    "before_edit": 3.2256035804748535,
+                    "after_edit": 3.2437024116516113
+                },
+                "cheese": {
+                    "before_edit": -2.927204132080078,
+                    "after_edit": -2.9146554470062256
+                }
+            },
+            "red delicious": {
+                "fruit": {
+                    "before_edit": 0.21545858681201935,
+                    "after_edit": -2.9297075271606445
+                },
+                "cheese": {
+                    "before_edit": -1.8823347091674805,
+                    "after_edit": 5.011542320251465
+                }
+            }
+        }
+    }
+}
